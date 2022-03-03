@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/imagesh" target="blank"><img src="https://img.shields.io/twitter/follow/imagesh?logo=twitter&style=for-the-badge" alt="imagesh" /></a> </p>
 
+- 💬 I help people build fullstack web apps. I teach React, Node and Ruby on Rails.
+
 - 📝 I regularly write articles on [http://magesh.io](http://magesh.io)
 
 - 💬 Ask me about **React, Javascript, Ruby, Rails**
